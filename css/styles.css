@@ -1,0 +1,48 @@
+.decompte {
+    float: left;
+    color: black;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    display: inline-block;
+    text-align: center;
+    font-size: 1.3em;
+    font-family: roboto;
+}
+
+.decompte p {
+    margin: 0;
+    padding: 0;
+}
+
+.style_decompte {
+    min-width: 100%;
+    height: auto;
+    overflow: hidden;
+    display: inline-block;
+}
+
+.cb {
+    background-color: #b26161;
+}
+
+.ca {
+    background-color: #b98484;
+}
+
+.cadre {
+    font-size: 0.8em;
+    width: 19%;
+    height: 8em;
+    float: left;
+    margin: 3%;
+    padding-top: 2em;
+    color: white;
+}
+
+.decompte strong {
+    float: left;
+    width: 100%;
+    font-size: 2em;
+    color: white;
+}
